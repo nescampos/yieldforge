@@ -13,6 +13,10 @@ YieldForge's goal is to transform future yields (staking rewards, LP fees, etc.)
 |Temporal distribution|Vesting / Lockdrop|Gradual access to acquired returns.|
 |Secondary Market|Exchange|Free purchase/sale of yield tokens|
 
+## Template for App Builder
+
+Available in [the template file](./app-YieldForge-staging.flex)
+
 ### Process Flow
 
 - Yield providers tokenize their projected yield in CW20.
